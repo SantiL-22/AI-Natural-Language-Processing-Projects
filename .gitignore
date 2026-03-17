@@ -1,10 +1,6 @@
 # Environments
 .env
 
-# Ignored specific project files
-BenchMark_Santiago_López.ipynb
-Rubrica_Triaje_LLMs_FINAL.numbers
-
 # Python
 __pycache__/
 *.py[cod]
